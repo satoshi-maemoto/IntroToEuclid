@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="rgb_filter" type="rgb_filter.py" name="rgb_filter"/>
+</launch>
